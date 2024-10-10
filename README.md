@@ -1,0 +1,1 @@
+Repositório criado para a realização de um projeto proposto do Professor Daniel com o objetivo de aprender as funcionalidades do GitHub. Primeiro foi criado o repositório, depois foi adicionado um arquivo "ola mundo", após isso foi realizado duas alterações. Por fim, foi adicionado um gitignore para ignorar qualquer arquivo com a extensão .png. 
